@@ -2,7 +2,9 @@
 
 ## 🏆 Current Champion
 
-**[To Be Announced]**
+| Team | Manager | Total Score |
+|------|---------|-------------|
+| Team Merrill | John Merrill | 1101 |
 
 Congratulations to our champion for an outstanding season!
 
